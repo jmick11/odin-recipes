@@ -1,0 +1,14 @@
+* {
+    color: black;
+    font-family: "Times New Roman", serif;
+}
+
+a {
+    color: blue;
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
